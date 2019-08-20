@@ -2,12 +2,12 @@ GEM
   remote: https://rubygems.org/
   specs:
     backports (3.8.0)
-    json (1.8.3)
+    json (1.8.6)
     kramdown (1.13.2)
     mini_portile2 (2.1.0)
     multi_json (1.12.1)
     mustermann (1.0.0)
-    nokogiri (1.8.2)
+    nokogiri (1.10.4)
       mini_portile2 (~> 2.1.0)
     rack (2.0.2)
     rack-protection (2.0.0)
@@ -37,4 +37,4 @@ DEPENDENCIES
   sinatra-contrib
 
 BUNDLED WITH
-   1.13.1
+   2.0.2

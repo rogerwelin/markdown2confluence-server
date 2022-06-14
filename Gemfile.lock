@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     backports (3.15.0)
-    json (2.2.0)
+    json (2.3.0)
     kramdown (2.1.0)
     mini_portile2 (2.8.0)
     multi_json (1.13.1)
